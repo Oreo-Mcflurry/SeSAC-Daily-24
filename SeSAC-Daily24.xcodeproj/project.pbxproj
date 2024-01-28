@@ -20,6 +20,7 @@
 		0BD1A7692B64DE1B00A750B1 /* RecapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD1A7682B64DE1B00A750B1 /* RecapViewController.swift */; };
 		0BD1A7702B651D4100A750B1 /* ImageEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD1A76F2B651D4100A750B1 /* ImageEnum.swift */; };
 		0BD1A7722B652D7D00A750B1 /* ConfigureView Protocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD1A7712B652D7D00A750B1 /* ConfigureView Protocol.swift */; };
+		0BD1A7742B6681F600A750B1 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD1A7732B6681F600A750B1 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		0BD1A7682B64DE1B00A750B1 /* RecapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecapViewController.swift; sourceTree = "<group>"; };
 		0BD1A76F2B651D4100A750B1 /* ImageEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageEnum.swift; sourceTree = "<group>"; };
 		0BD1A7712B652D7D00A750B1 /* ConfigureView Protocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ConfigureView Protocol.swift"; sourceTree = "<group>"; };
+		0BD1A7732B6681F600A750B1 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 			isa = PBXGroup;
 			children = (
 				0BD1A7682B64DE1B00A750B1 /* RecapViewController.swift */,
+				0BD1A7732B6681F600A750B1 /* TableViewCell.swift */,
 			);
 			path = Recap;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 				0BD1A7702B651D4100A750B1 /* ImageEnum.swift in Sources */,
 				0BD1A7672B64DE1300A750B1 /* ThreePageViewController.swift in Sources */,
 				0BD1A7582B64DC0400A750B1 /* TabbarViewController.swift in Sources */,
+				0BD1A7742B6681F600A750B1 /* TableViewCell.swift in Sources */,
 				0BD1A7432B64DB6600A750B1 /* AppDelegate.swift in Sources */,
 				0BD1A7722B652D7D00A750B1 /* ConfigureView Protocol.swift in Sources */,
 				0BD1A7692B64DE1B00A750B1 /* RecapViewController.swift in Sources */,
